@@ -1,0 +1,2 @@
+# Terraform-Template
+みやびの部屋の提供するAWS用のTerraformのテンプレートです。
